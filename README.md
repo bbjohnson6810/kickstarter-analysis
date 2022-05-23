@@ -1,6 +1,6 @@
 # Analysis of of theater Kickstarter campaigns
 
-Here, I analyzed the success or failure of Kickstarter campaigns to get funding for theater projects. Analyses are in the file data-1-1-3-StarterBook, spread across multiple Excel sheets:
+Here, I analyzed the success or failure of Kickstarter campaigns to get funding for theater projects. Analyses are in the file data-1-1-3-StarterBook.xlsx, spread across multiple Excel sheets:
 
 **1. kickstarter:**
 Raw data for 4114 Kickstarter campaigns from various categories. 
