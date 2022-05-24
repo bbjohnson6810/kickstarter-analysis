@@ -28,3 +28,19 @@ Mean, median, standard deviation, and quartiles of funding goals and pledged fun
 
 **9. GB musicals:**
 Boxplot comparing funding goals and pledged funds for all plays in Great Britain
+
+
+## Main findings ##
+
+
+![cat_outcomes](https://user-images.githubusercontent.com/85725400/170123469-dfcccc9d-f1d3-4905-a79e-2fd1a5b1d31f.png)
+Theater campaigns have a high success rate relative to other types of campaigns. Good news!
+
+![monthly_outcomes](https://user-images.githubusercontent.com/85725400/170123502-ee7d7615-bfd0-4b74-bb5f-83c08f0d63fb.png)
+Theater campaigns have had the most success in the months of May and June - something to consider when deciding when to kick off your campaign.
+
+![USplays_outcomes](https://user-images.githubusercontent.com/85725400/170123525-a625ce41-bd76-44ce-a3d1-90b25d7c8387.png)
+Plays specifically (not just theater broadly) also have had a high success rate historically.
+
+![GB_musicals](https://user-images.githubusercontent.com/85725400/170125320-dfdb1954-b711-49d4-b3c4-e387636f4762.png)
+Lots of musicals campaigns in Great Britain seem to be setting overly high fundraising goals. Except for outliers, all pledged funds amount to less than the mean funding goal that was asked. Don't set your goal too high! Less than $2000 is probably safest
