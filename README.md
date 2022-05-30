@@ -12,7 +12,7 @@ This analysis examines the outcomes of different Kickstarter campaigns for plays
 I analyzed campaign outcomes as a function of their launch date in Microsoft Excel. Using all available data on Kickstarter campaigns, I created a pivot table filtered on all theater campaigns to count the number of successful, failed, and canceled campaigns launched in each month of the year. I used Excel to create this line chart from the data:  
 
   
-![](theater_outcomes_vs_launch.png)
+![](resources/theater_outcomes_vs_launch.png)
 
 
 ### Funding Goals
@@ -20,7 +20,7 @@ I analyzed campaign outcomes as a function of their launch date in Microsoft Exc
 I also used Excel to analyze campaign success as a function of funding goals. I binned funding goals into $5,000 bins between $5,000 and $50,000, plus bins for <$1,000, $1,000-$4,999, and >$50,000. I used the 'COUNTIFS' function in Excel on the entire Kickstarter dataset to count the number of successful, failed, and canceled plays within each bin. By summing these outcomes across each bin using the 'SUM' function, I was able to calculate the percentage of plays that were successfully or unsuccessfully funded within each bin. I plotted these outcomes using Excel:
 
 
-![](outcomes_vs_goals.png)
+![](resources/outcomes_vs_goals.png)
 
 
 ## 2.2. Challenges
